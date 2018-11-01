@@ -1,4 +1,4 @@
-# TuitionCalculator
+# tuition-calculator
 
 #### [tuition-calculator--gmr.herokuapp.com](https://tuition-calculator--gmr.herokuapp.com/)
 
