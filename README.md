@@ -7,10 +7,15 @@ A responsive tuition calculator for LCCC that determines cost based on semester 
 
 ## Objectives:
 [x] Use external CSS, JavaScript, and PHP include files.
+
 [x] Use PHP calculations for tuition chart.
+
 [x] Practice creating good functions (clean & easily changed).
+
 [x] Validate client and server side input.
+
 [x] Use AJAX for requests.
+
 [x] Practice responsive design.
 
 ## Summary:
