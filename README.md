@@ -16,7 +16,7 @@ A responsive tuition calculator for LCCC that determines cost based on semester 
 
 :white_check_mark: Use AJAX for requests.
 
-:black_square_button: Practice responsive design.
+:white_check_mark: Practice responsive design.
 
 ## Summary:
 This project was created for my Scripting in the Client Server class at LCCC. I learned a lot working on this project. This was an introdcution to PHP and AJAX. I also used bootstrap for the first time to make the responsive design easier.
