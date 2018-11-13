@@ -6,7 +6,7 @@
 A responsive tuition calculator for LCCC that determines cost based on semester credit hours taken and residency, created as a school project.
 
 ## Objectives:
-[x] Use external CSS, JavaScript, and PHP include files.
+[:heavy_check_mark:] Use external CSS, JavaScript, and PHP include files.
 
 [x] Use PHP calculations for tuition chart.
 
